@@ -61,9 +61,7 @@ The script automatically extracts the text from the watermarked audio files and 
 ### Image Watermarking
 
 * **Binary Watermark** : `010100110110000101101101011100000110110001100101`
-* **Metrics** :
-  `0000.bmp: PSNR = 35.67, SSIM = 0.98 
-  0001.bmp: PSNR = 36.12, SSIM = 0.97`
+* **Metrics** : `0000.bmp: PSNR = 35.67, SSIM = 0.98`
 
 ### Audio Watermarking
 
